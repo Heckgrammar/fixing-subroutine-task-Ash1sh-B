@@ -12,6 +12,7 @@
         {
             string[] currencies = { "baht", "dollar", "euro", "koruna", "lira", "rand", "rupee", "yen" };
             return currencies[1];
+            console.Writeline(currencies);
 
         }
     }
